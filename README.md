@@ -1,4 +1,4 @@
-# Graviton Particle Simulation
+# Simple Graviton Particle Simulation
 
 A visual simulation of particle motion influenced by gravity using gravitons, created in Python with Pygame. This simulation demonstrates a simple physics model in which particles interact with virtual "gravitons", creating a dynamic and visually engaging gravitational effect.
 
