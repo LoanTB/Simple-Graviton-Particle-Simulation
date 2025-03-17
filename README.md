@@ -16,24 +16,6 @@ A visual simulation of particle motion influenced by gravity using gravitons, cr
 - **Python 3.x**
 - **Pygame**: Install it via pip with `pip install pygame`
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/LoanTB/Simple-Graviton-Particle-Simulation.git
-   cd Simple-Graviton-Particle-Simulation
-   ```
-
-2. Install Pygame if not already installed:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the simulation:
-   ```bash
-   python main.py
-   ```
-
 ## Project Structure
 
 - **`main.py`**: The main script for the simulation. It initializes the screen, creates particles and gravitons, and handles the simulation loop.
